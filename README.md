@@ -1,2 +1,1 @@
-# SQL_querying
-Querying a Large Relational Database
+Data Analysis Queries for the Adventure Works 2022 database in SSMS.
